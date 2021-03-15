@@ -8,5 +8,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void printLogo()
+        {
+            Console.WriteLine("print logo");
+        }
     }
 }
