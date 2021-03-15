@@ -13,5 +13,10 @@ namespace HelloWorld
         {
             Console.WriteLine("print logo");
         }
+
+        static void printStatus()
+        {
+            Console.WriteLine("print logo");
+        }
     }
 }
